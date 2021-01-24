@@ -1,8 +1,1 @@
-this is second test
-hello
-world`:
-aa
-jj
-hot_fix branch
-git2 mdify this text
-this git2 sencond modify
+我是git2 这个文件需要重新编辑
