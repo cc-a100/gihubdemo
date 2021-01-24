@@ -1,2 +1,2 @@
 master create branch
-hot_fix say my name is hot fix
+master say my name is master
